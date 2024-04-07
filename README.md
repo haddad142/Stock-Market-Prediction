@@ -17,4 +17,4 @@ Predicting the price of the sp500 stock market.
   - scikit-learn
   - xgboost
 ### Data:
-Data pulled throgh yfinance Ticker and saved into csv file
+Data pulled through yfinance Ticker and saved into csv file
